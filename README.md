@@ -3,7 +3,7 @@
 
 ## Integrantes
 
-- Dalle Nogare Pierluigi - 7mo 1ra AVC - COM C 
+- Dalle Nogare Pierluigi (PierElCapo) - 7mo 1ra AVC - COM C 
 - De Godoy Maximo (Dishi001) - 7mo 1ra AVC - COM C 
 
 ## Objetivo 
@@ -12,16 +12,12 @@ Diseñar y programar una pagina que sea capaz de generar un mapa. Habra diferent
 
 ## Paginas
 
-En esta seccion, describan las todas paginas que conforman el proyecto.
+![](Imagenes_del_creador/Pagina_de_Log_in.png)
 
 ### Pagina
 
-Inserten descripcion y un mockup de la misma.
+![](Imagenes_del_creador/Pagina_de_creacion_de_cuenta.png)
 
 ### Sub-pagina
 
-Idem.
-
-### Sub-pagina
-
-Idem.
+![](Imagenes_del_creador/Pagina_del_mapa.png)
