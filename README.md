@@ -16,7 +16,7 @@ Diseñar y programar una pagina que sea capaz de generar un mapa. Habra diferent
 
 ### Pagina
 
-![](Imagenes_del_creador/Pagina_de_creacion_de_cuenta.png)
+![](Imagenes_del_creador/Pagina_de_creacion_de_cuenta_1.1.png)
 
 ### Sub-pagina
 
