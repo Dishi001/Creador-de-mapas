@@ -1,0 +1,2 @@
+#gitignore excluye de github los archivos que tiene .pyc
+*.pyc 
